@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/wsams11/progressive-budget.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/wsams11/progressive-budget/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/wsams11/progressive-budget#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.8.4"
+    "mongoose": "^5.8.4",
+    "morgan": "^1.9.1"
   },
   "devDependencies": {},
   "description": ""
